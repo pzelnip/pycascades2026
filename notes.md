@@ -12,14 +12,12 @@ no longer c dev in residence
 
 Book: Practical Doomsday - Michal Zalewski
 
-Peinciples
+Principles
 
 1. maximizing hardware life
 2. Computational frugality
 
-
-
-Bitrot project = https://pypi.org/search/?q=bitrot
+Bitrot project <https://pypi.org/project/bitrot/>
 
 What can you do?
 
@@ -57,5 +55,28 @@ Sammie Jiang
 > You'll discover how indirect=True parametrization can elegantly address each of these pain points and see examples of how to refactor messy, hard-to-read tests into clean, declarative patterns. Come away with a clearer mental model of fixture scopes and how to optimize them to reduce test run times.
 >
 > This talk is for intermediate developers who have basic experience with fixtures and parametrization, who may have encountered the pain points of maintaining a growing test suite.
+
+jiangsammie on linkedin
+
+Fixtures are modelling a named combination of states.
+
+
+`indirect=True` parameterization
+
+Parameterizes the fixture
+
+Tests should describe what they need, not how to build it
+The fixture describes how to build it
+
+If fixtures feel magical, then you've lost clarity
+
+SHARE (higher scope -- shared stuff like the DB conn) vs ISOLATE (mutable data)
+
+### Best Practices
+
+- Maintain test clarity
+- prefer parameter factories for complex needs
+- lazy fixture setup
+- avoid a god fixture
 
 ---
