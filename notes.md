@@ -1,5 +1,7 @@
 # Pycascades 2026
 
+<https://2026.pycascades.com/>
+
 ## Permacomputing and Python
 
 Lukas Langa
@@ -136,7 +138,15 @@ Mariatta
 >
 > In 2025, PyLadiesCon team said no to spreadsheets and instead started building our conference infrastructure: an open source web app for managing various aspects of our conference. Learn more our challenges in managing the online PyLadiesCon conference, and how we're solving our problems with Python and Django. Contribute to the project, and support the PyLadies community.
 
+<https://mariatta.ca/>
 
+<https://www.instagram.com/mariatta81>
+
+<https://conference.pyladies.com/docs>
+
+<https://portal.pyladies.com>
+
+[django-import-export](https://pypi.org/project/django-import-export) -> exporting data to spreadsheets
 
 
 ---
