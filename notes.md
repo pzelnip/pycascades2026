@@ -148,7 +148,6 @@ Mariatta
 
 [django-import-export](https://pypi.org/project/django-import-export) -> exporting data to spreadsheets
 
-
 ---
 
 ## The Future of Python: Evolution or Succession?
@@ -160,6 +159,8 @@ Brett Slatkin
 > This talk will cover the past, present, and future of the Python language's growing edge. We'll learn about where Python began and its early influences. We'll look at shortcomings in the language, how the community is trying to overcome them, and opportunities for further improvement. We'll consider the practicalities of language evolution, how other languages have made the shift, and the unique approaches that are possible today (e.g., with tooling and AI).
 >
 > All levels of experience are welcome!
+
+Why do programming languages matter anymore?
 
 ---
 
@@ -175,6 +176,9 @@ Constance Martineau
 >
 > Basic familiarity with Python is all you need, no prior Airflow experience required.
 
+cmarteepants on Github
+
+airflow-edge-demo on Github
 
 ---
 
@@ -185,7 +189,8 @@ Rodrigo Silva Ferreira
 > Notebooks have become the default environments for exploring data, prototyping ideas, and sharing results. Yet, their influence extends far beyond code execution, as they shape how we think, collaborate, and communicate with data. As real-world projects increasingly rely on multiple programming languages, magic commands and cross-language kernels open new possibilities for combining Python, R, SQL, markdown, and more within a single workflow, blending computation with storytelling in powerful ways.
 >
 > This talk explores how multilingual workflows transform exploratory data analysis (EDA), highlighting where notebooks shine and where they introduce new challenges around testing, version control, and scaling. Through real-world examples, we’ll look at how these tools lower barriers, reinforce trust and integrity in data science workflows, and change the way we reason about problems. Attendees will gain practical strategies for integrating multiple languages in their notebooks and a deeper understanding of how these tools shape modern data science. Basic familiarity with Python and EDA is helpful but not required.
->
+
+Blog: <https://rodrigosf.com>
 
 
 
