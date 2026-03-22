@@ -346,7 +346,15 @@ Day 2
 
 Emmanuel Ugwu
 
+(virtual talk)
 
+"Ego is not your enemy it is the story the mind uses to feel safe"
+
+What would tech look like if we measured success by the people we lift, not the code we write?
+
+- Who are you mentoring?
+- Who helped you grow?
+- What community are you building?
 
 ---
 
@@ -376,8 +384,7 @@ Michelle Brenner
 > clearer picture of what it really means to be a Senior Engineer, so you can
 > stop guessing and be ready for your next step.
 
-
-
+<https://www.michellebrenner.com/>
 
 ---
 
@@ -397,8 +404,6 @@ Justin Castilla
 > resources and tutorials and a roadmap for building their own agentic AI
 > solutions. A comfortable grasp of Python functions, API calls, framework
 > decorators, and the role of context with LLMs is recommended.
-
-
 
 ---
 
@@ -423,6 +428,7 @@ Laura Meng
 > sleepless nights.
 >
 
+<https://streamlit.io/>
 
 ---
 
