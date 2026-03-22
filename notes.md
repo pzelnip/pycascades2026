@@ -192,7 +192,11 @@ Rodrigo Silva Ferreira
 
 Blog: <https://rodrigosf.com>
 
+Referenced this talk: <https://www.youtube.com/watch?v=0i-r3gl4WLU>
 
+Notebook demo <https://github.com/rodrigosf672/pycascades2026-multilingual_eda>
+
+rsf309 on Linkedin
 
 ---
 
@@ -204,6 +208,11 @@ Blog: <https://rodrigosf.com>
 >
 > This talk is for anyone that has wanted to contribute to open source, but didn’t know where to start or thought they wouldn’t be able to do it with their skill set or time. Come learn how to get started!
 
+Stefanie Molin
+
+<https://stefaniemolin.com/>
+
+<https://stefaniemolin.com/talks/#getting-started-with-open-source-contributions>
 
 ---
 
@@ -224,3 +233,5 @@ Trey Hunner
 > During the process, we'll consider our own mental model of Python.
 >
 > In Python, it's pointers (or references, names, bindings, or aliases) all the way down.
+
+<https://trey.io/pycascades26>
