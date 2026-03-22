@@ -235,3 +235,137 @@ Trey Hunner
 > In Python, it's pointers (or references, names, bindings, or aliases) all the way down.
 
 <https://trey.io/pycascades26>
+
+---
+
+Day 2
+
+## Python Stings Your Ego: Finding Pride in Community, Not Just Code
+
+> In tech, it’s easy to get caught up in ego. Chasing the smartest solutions, writing the most complex code, or proving who’s the best in the room. But Python has a funny way of humbling us. Its simplicity reminds us that good code isn’t about showing off; it’s about making things clear, accessible, and collaborative.
+>
+> This talk is about what happens after that sting of humility. Python doesn’t just strip away ego, it builds communities that make you feel proud to belong. I’ll share stories from my journey with Black Python Devs and other Python groups, showing how people from all walks of life come together, support one another, and create space for growth.
+>
+> By the end, you’ll see that the real magic of Python isn’t just the language. It’s the people, the openness, and the sense of pride that comes from being part of something bigger than yourself.
+
+Emmanuel Ugwu
+
+
+
+---
+
+## Am I ready to be a Senior Engineer?
+
+Michelle Brenner
+
+> When you move from Junior to Mid-level Software Engineer, you’re mostly building on what you already know. You get better at writing clean code, you pick up speed, and you start to really understand how your team works. But making the leap from Mid to Senior? That’s a whole new game. Suddenly, you’re expected to make technical decisions, work across teams, and help drive your team’s success. I’ll talk about what being a Senior Engineer actually means, and what people are really looking for. These days, on-the-job training is rare. Managers want to see these skills early, not just when you have the title.
+>
+> Here’s a challenge: the most experienced engineers are often working remotely, so it’s harder for newer folks to pick things up just by being around them. How are you supposed to know what’s expected if you never get to see it in action? That’s what I want to help with. We’ll dig into everything from system design to working with other teams, the stuff nobody really explains. This is a sneak peek from my upcoming book (coming Fall 2026), pulled from both my own experience and the many engineers I interviewed.
+>
+> You’ll leave with practical skills you can start using right away, and a clearer picture of what it really means to be a Senior Engineer, so you can stop guessing and be ready for your next step.
+
+
+
+
+---
+
+## There and back again... but by I-5 or the ferry?
+
+Justin Castilla
+
+> Living on Washington State’s peninsula offers endless beauty, nature, and commuting challenges. In this talk, I’ll share how I built an agentic AI system that creates and compares optimal routes to the mainland, factoring in ferry schedules, costs, driving distances, and live traffic. Originally a testbed for the Model Context Protocol (MCP) framework, this project now manages my travel schedule, generates expense estimates, and sends timely notifications for events. I’ll give a comprehensive overview of MCP, show how to quickly turn ideas into working agentic AI, and discuss practical integration with real-world APIs. Attendees will leave with MCP Server resources and tutorials and a roadmap for building their own agentic AI solutions. A comfortable grasp of Python functions, API calls, framework decorators, and the role of context with LLMs is recommended.
+
+
+
+---
+
+## When the Baby App Crashed: Coding for Chaos (and Parenthood)
+
+Laura Meng
+
+> As a first-time parent and a developer, I relied on an app to log sleep and feedings. If I was going to lose sleep, at least I’d have data.
+> But one night, the app crashed right when I needed it most. Half-awake and fully frustrated, I decided to build my own version: one that could survive offline and my occasional parental meltdowns.
+>
+> This talk explores how everyday chaos (whether in parenting or in production) can inspire better engineering. I’ll share how concepts like caching and feature flags turned a midnight side project into a small, reliable system.
+>
+> Attendees will walk away with practical ideas for making their own applications more dependable under real-world conditions. Basic programming experience is helpful, but the talk is accessible to anyone interested in software reliability, distributed systems, or stories from the trenches of sleepless nights.
+>
+
+
+---
+
+## More. Better.
+
+Mario Munoz
+
+> What would it look like to be a good software engineer? Would it mean that you are able to solve complex problems with proven solutions? Or would it mean that you can provide novel and creative ways to solve hard problems? The introduction of AI tooling into a developer's workflow promises gains in productivity. But what does that mean? More code? Better Code? Less toil? More time?
+>
+> Some executives bullish on this technology claim that AI assistants will eventually shorten workers' work weeks. However, the likeliest scenario is not a shorter work week, but increased demands within the same time constraints.
+>
+> How do we become better engineers within the current climate of overhyped AI technologies?
+
+
+
+---
+
+## A bridge over (not) troubled waters: Collecting marine data from your couch
+
+Sarah Kaiser
+
+Cassandra Granade
+
+> Do you ever have a weird feeling that something around you is off? I certainly do, and one recent recurring thought I have is that the vintage boat I'm helping restore has sunk. I decided to use the tools available to me to put my mind at ease: software, a soldering iron, and stubbornness. My crewmate and I have built a way to get live data from our boat while on the couch at home at 3 am :) Data is a great way to reduce anxiety, and in this case has also generated a rising tide of interest in marine tech infrastructure. In this talk, we will give you a tour the cool OSS tools I have discovered for collecting telemetry on boats, a specialized marine data collection platform (Signal K), and an MQTT bridge to bring it all into my smart home dashboards on Home Assistant.
+
+
+
+---
+
+## Creating Music with Python!
+
+Herve Aniglo
+
+> In this talk attendees will learn about Jython, an open source implementation of the Python programming language, integrated with the Java platform for music making and creative programming activities.
+>
+> Attendees will leave this talk with an understanding of Jython libraries for:
+> music making
+> image manipulation
+> building graphical user interfaces (GUIs),
+> connecting to external MIDI and OSC devices
+> music transcription and playback
+> audio looping, computer-aided music composition
+> development of computer-based musical instruments (including hybrid instruments)
+> live performance.
+> Live demo where I will turn my computer into a musical instrument to play music made by Beethoven, Deep Purple, Tupac Shakur, Mozart, and Deep Purple.
+
+
+
+---
+
+## Visual Unit Tests and Live Coding
+
+Don Kirkby
+
+> When I write Python code to build graphical reports or user interfaces, I wish it felt more like Inkscape or Powerpoint where you can immediately see the effect of your changes.
+>
+> In this talk, I'll demonstrate techniques I've developed that combine unit testing and live coding to create a Python environment that feels closer to Inkscape or Powerpoint. I'll also talk about some of the challenges of writing visual unit tests.
+>
+> If you haven't written unit tests yet, you can still get some ideas from this talk. You could also read my essay on test-driven development to get a head start.
+
+
+
+---
+
+## Introducing t-strings: f-strings with superpowers
+
+Dave Peck
+
+> Python 3.14 introduces t-strings: template string literals that look like f-strings but evaluate to a Template instance instead of a str. This opens up exciting possibilities for safer string processing (avoiding injection vulnerabilities in SQL and HTML) and powerful custom formatting (like HTML templating directly in Python), all while using the familiar f-string syntax developers already know and love.
+>
+> In this talk, I'll describe what t-strings are and how they differ from f-strings and other common Python formatting tools. I'll explore when they're a good fit for new projects and how to use them effectively in everyday code. I'll also demonstrate two libraries — tdom (HTML) and t-sql (SQL) — and close with a live tooling demo in VS Code showing the current state of formatting, linting, and syntax highlighting support.
+>
+> Attendees will leave knowing when to reach for t-strings, how to adopt them safely, and which tools can improve their developer experience.
+
+
+---
+
+## Closing Remarks
