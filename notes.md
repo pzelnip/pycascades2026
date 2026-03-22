@@ -450,8 +450,6 @@ Mario Munoz
 > How do we become better engineers within the current climate of overhyped AI
 > technologies?
 
-
-
 ---
 
 ## A bridge over (not) troubled waters: Collecting marine data from your couch
@@ -472,8 +470,6 @@ Cassandra Granade
 > (Signal K), and an MQTT bridge to bring it all into my smart home dashboards
 > on Home Assistant.
 
-
-
 ---
 
 ## Creating Music with Python!
@@ -492,7 +488,9 @@ Herve Aniglo
 > where I will turn my computer into a musical instrument to play music made by
 > Beethoven, Deep Purple, Tupac Shakur, Mozart, and Deep Purple.
 
+<https://jythonmusic.me/>
 
+Neat demo of using Python code to create music
 
 ---
 
