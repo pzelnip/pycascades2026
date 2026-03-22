@@ -55,7 +55,7 @@ Sammie Jiang
 > often run into a new set of challenges when projects and test suites grow in
 > complexity. This talk explores using pytest's indirect fixtures to create
 > modular, maintainable test suites that scale with your codebase.
-
+>
 > Fixture overuse and mismanagement is one of the most common areas of
 > difficulty with testing/pytest
 >
@@ -75,7 +75,6 @@ Sammie Jiang
 jiangsammie on linkedin
 
 Fixtures are modelling a named combination of states.
-
 
 `indirect=True` parameterization
 
@@ -128,6 +127,7 @@ chantellechan on linkedin
 
 ## Anti-Patterns in A/B Testing - or How does AB Testing Scale?
 
+Stephen Pettinato
 
 > AB testing is a tried and true standard across technology companies used
 > extensively for 20+ years, Still it's hard to get right. With vendors and
@@ -141,8 +141,6 @@ chantellechan on linkedin
 > A basic understanding of AB Testing and Python will make this talk fully
 > understandable, but attendees that lack both of these things will still get
 > the general idea of how AB Testing can be hard to scale
-
-Stephen Pettinato
 
 Anti patterns
 
