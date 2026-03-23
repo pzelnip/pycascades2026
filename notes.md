@@ -511,7 +511,13 @@ Don Kirkby
 > talk. You could also read my essay on test-driven development to get a head
 > start.
 
+<https://donkirkby.github.io/>
 
+<https://donkirkby.github.io/testing>
+
+<https://pypi.org/project/space-tracer/>
+
+Example of using visual diffing for tests on matplotlib snippets
 
 ---
 
@@ -536,7 +542,24 @@ Dave Peck
 > Attendees will leave knowing when to reach for t-strings, how to adopt them
 > safely, and which tools can improve their developer experience.
 
+T strings are not strings
+
+<[fstrings.wtf](https://fstrings.wtf/)>
+
+<https://pypi.org/project/tdom/> -- t-string based HTML templater library
+
+Possibly use as an alternative to Django templates?
+
+Similar to JSX
+
+<https://t-strings.help>
+
+<https://davepeck.org>
 
 ---
 
 ## Closing Remarks
+
+organizers@pycascades.com
+
+Ask your work to sponsor this conference
